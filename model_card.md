@@ -1,10 +1,10 @@
-# Model Card: Investigating Privacy Risks and Mitigations in Clinical Language Models
+# Model Card: Investigating Privacy Risks and Mitigations in Healthcare Language Models
 
-This repository was created as part of an NHS England PhD internship project and contains code to fine-tune and perform Membership Inference Attacks on Clinical Language Models (LM), with the goal of better understanding the risks of training data leakage and exploring possible mitigation strategies.
+This repository was created as part of an NHS England PhD internship project and contains code to fine-tune and perform Membership Inference Attacks on Healthcare Language Models (LM), with the goal of better understanding the risks of training data leakage and exploring possible mitigation strategies.
 
 
 ## Model Details
-The implementation of Investigating Privacy Risks and Mitigations in Clinical Language Models within this repository was created as part of an NHS England PhD internship project undertaken by Victoria Smith {LINK TO LAST COMMIT WITH ABBREVIATED SHA}.
+The implementation of Investigating Privacy Risks and Mitigations in Healthcare Language Models within this repository was created as part of an NHS England PhD internship project undertaken by Victoria Smith.
 ## Model Use
 ### Intended Use
 This repository is intended for use in experimenting with privacy preserving approaches for LMs and testing the effect of these on LM privacy risk using Membership Inference Attacks.
