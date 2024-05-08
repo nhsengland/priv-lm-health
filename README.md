@@ -3,7 +3,7 @@
 
 ### About the Project
 
-[![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 This `priv-lm-health` repository holds code for Investigating Privacy Risks and Mitigations in Healthcare Large Language Models project. This work presents an initial exploration of the privacy risk landscape for training data used to train healthcare Language Models (LMs) and various privacy-preserving techniques, applied to LMs both before and after model training. We evaluate their effectiveness with privacy attacks.
 
@@ -50,7 +50,9 @@ A set of scripts for running Loss and Likelihood Ratio Membership Inference Atta
 
 ### Built With
 
-[![Python v3.9](https://img.shields.io/badge/python-v3.9-blue.svg)](https://www.python.org/downloads/release/python-390/). The work is mostly undertaken utilising the [`Transformers`](https://huggingface.co/docs/transformers/index) library for language modelling.
+[![Python v3.9](https://img.shields.io/badge/python-v3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+
+The work is mostly undertaken utilising the [`Transformers`](https://huggingface.co/docs/transformers/index) library for language modelling.
 
 ### Getting Started
 
