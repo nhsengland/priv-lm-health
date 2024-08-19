@@ -5,9 +5,9 @@
 
 [![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-:warning: This `priv-lm-health` repository holds code for Investigating Privacy Risks and Mitigations in Healthcare Large Language Models project. This work presents an initial exploration of the privacy risk landscape for training data used to train healthcare Language Models (LMs) and various privacy-preserving techniques, applied to LMs both before and after model training. We evaluate their effectiveness with privacy attacks. :warning:
+This `priv-lm-health` repository holds code for Investigating Privacy Risks and Mitigations in Healthcare Large Language Models project. This work presents an initial exploration of the privacy risk landscape for training data used to train healthcare Language Models (LMs) and various privacy-preserving techniques, applied to LMs both before and after model training. We evaluate their effectiveness with privacy attacks.
 
-**This repository is experimental and thus models generated and attacked using this repository are not suitable to deploy into a production environment without further testing and evaluation.**
+:warning: **This repository is experimental and thus models generated and attacked using this repository are not suitable to deploy into a production environment without further testing and evaluation.** :warning:
 
 This work was conducted as part of an NHS England DART PhD Internship project by [Victoria Smith](https://github.com/v-smith) between June and November 2023.
 
